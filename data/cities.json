@@ -1,0 +1,88 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Nijar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-04-03T07:47:59.202Z",
+      "notes": "",
+      "position": {
+        "lat": "36.967508314568164",
+        "lng": "-2.13128394200588"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Encamp",
+      "country": "Andorra",
+      "emoji": "🇦🇩",
+      "date": "2023-11-01T02:57:38.063Z",
+      "notes": "test",
+      "position": {
+        "lat": "42.5379618126489",
+        "lng": "1.632165251527642"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Mecca",
+      "country": "Saudi Arabia",
+      "emoji": "🇸🇦",
+      "date": "2023-11-16T20:19:55.573Z",
+      "notes": "alharam elshareef",
+      "position": {
+        "lat": "21.207458730482653",
+        "lng": "39.81445312500001"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Malta",
+      "country": "Malta",
+      "emoji": "🇲🇹",
+      "date": "2023-11-16T22:04:42.265Z",
+      "notes": "😍",
+      "position": {
+        "lat": "35.81781315869664",
+        "lng": "14.436035156250002"
+      },
+      "id": 98443204
+    }
+  ]
+}

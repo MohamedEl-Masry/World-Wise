@@ -1,0 +1,51 @@
+.product {
+  margin: 2.5rem;
+  padding: 2.5rem 5rem;
+  background-color: var(--color-dark--1);
+  min-height: calc(100vh - 5rem);
+}
+
+.product section {
+  width: clamp(80rem, 80%, 90rem);
+  margin: 6rem auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 7rem;
+  align-items: center;
+}
+
+.product img {
+  width: 100%;
+}
+
+.product h2 {
+  font-size: 4rem;
+  line-height: 1.2;
+  margin-bottom: 3rem;
+  font-weight: bold;
+}
+
+.product p {
+  font-size: 1.6rem;
+  margin-bottom: 2rem;
+}
+
+.product section a {
+  margin-top: 2rem;
+}
+@media screen and (max-width: 821px) {
+  section {
+    padding-top: 3rem !important ;
+    width: auto !important;
+    grid-template-columns: none !important;
+    gap: 2rem !important;
+  }
+
+  h2 {
+    /* font-size: 2rem !important; */
+    font-weight: bold !important;
+  }
+  p {
+    font-size: 1.25rem !important;
+  }
+}
