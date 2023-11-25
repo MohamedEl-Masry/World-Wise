@@ -16,7 +16,7 @@ function City() {
   const { getCity, currentCity, isLoading } = useContext(CitiesContext);
   useEffect(() => {
     getCity(id);
-  }, [id]);
+  }, [id, getCity]);
   const navigate = useNavigate();
 
   const { cityName, emoji, date, notes } = currentCity;

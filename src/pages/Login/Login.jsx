@@ -4,7 +4,7 @@ import { useFormik } from "formik";
 import React from "react";
 import { useNavigate } from "react-router-dom";
 import toast from "react-hot-toast";
-import styles from "./login.module.css";
+import styles from "../Login/Login.module.css?used";
 import Navbar from "../../components/Navbar/Navbar";
 
 const Login = ({ getUserData }) => {
