@@ -23,7 +23,7 @@ export default function Pricing() {
         </div>
         <div className="mt-5 img-pricing">
           <img
-            src="/src/assets/img-2.jpg"
+            src="src/assets/img-2.jpg"
             alt="overview of a large city with skyscrapers"
           />
         </div>
